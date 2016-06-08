@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:28.854521
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:19
 #+TITLE: 維摩經義疏
 #+PROPERTY: CBETA_ID T38n1781
 #+PROPERTY: ID KR6i0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1781
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0084_T_003-0935b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 維摩經義卷第三¶
+維摩經義卷第三¶
 ¶
 胡吉藏撰¶
 
-3弟子品(三)
-:PROPERTIES:
-:head: 弟子品第三
-:END:
-¶
+* 弟子品第三¶
 
 資視師如父。自處如子。師處資為弟。自處如¶
 兄。敬護合論。故名弟子。依內義。學在佛後¶
