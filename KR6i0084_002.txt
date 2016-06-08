@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:28.814232
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:19
 #+TITLE: 維摩經義疏
 #+PROPERTY: CBETA_ID T38n1781
 #+PROPERTY: ID KR6i0084
@@ -688,7 +688,7 @@
 今辨深利。知土無常故。不貪取諸法。名為不¶
 受。九十八結。諸漏既盡。意得解脫。成阿羅漢。¶
 
-2方便品(二)
+* 2方便品(二)
 :PROPERTIES:
 :head: 方便品第二
 :END:
